@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="521dc5cd-c2bf-4270-a381-68ee635d9bdd" name="Default Changelist" comment="">
+      <change afterPath="E:/BERT-BiLSTM-CRF-NER-master/.idea/BERT-BiLSTM-CRF-NER-master.iml" afterDir="false" />
+      <change afterPath="E:/dssm_estimator/dssm-master/.idea/dssm-master.iml" afterDir="false" />
+      <change afterPath="E:/esmm-master/esmm/.idea/esmm.iml" afterDir="false" />
+      <change afterPath="E:/estimator/word_cnn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/estimator/word_cnn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/estimator/word_cnn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/estimator/word_cnn/.idea/word_cnn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Incremental_learn.iml" afterDir="false" />
+      <change beforePath="E:/Dga_Classify_With_BERT/.idea/workspace.xml" beforeDir="false" afterPath="E:/Dga_Classify_With_BERT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="E:/Dga_Classify_With_BERT/bert_bilistm_attention_train_eval.py" beforeDir="false" afterPath="E:/Dga_Classify_With_BERT/bert_bilistm_attention_train_eval.py" afterDir="false" />
+      <change beforePath="E:/Dga_Classify_With_BERT/modeling.py" beforeDir="false" afterPath="E:/Dga_Classify_With_BERT/modeling.py" afterDir="false" />
+      <change beforePath="E:/Dga_Classify_With_BERT/train_eval.py" beforeDir="false" afterPath="E:/Dga_Classify_With_BERT/train_eval.py" afterDir="false" />
+      <change beforePath="E:/bert_distill/.idea/workspace.xml" beforeDir="false" afterPath="E:/bert_distill/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="E:/bert_distill/data/dga/dev.txt" beforeDir="false" afterPath="E:/bert_distill/data/dga/dev.txt" afterDir="false" />
+      <change beforePath="E:/bert_distill/flask_predict.py" beforeDir="false" afterPath="E:/bert_distill/flask_predict.py" afterDir="false" />
+      <change beforePath="E:/bert_distill/small.py" beforeDir="false" afterPath="E:/bert_distill/small.py" afterDir="false" />
+      <change beforePath="E:/dga-train/.idea/workspace.xml" beforeDir="false" afterPath="E:/dga-train/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="E:/learn_java/.idea/workspace.xml" beforeDir="false" afterPath="E:/learn_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="E:/learn_java/src/main/java/Day09/Extend_.java" beforeDir="false" afterPath="E:/learn_java/src/main/java/Day09/Extend_.java" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day01/Constant.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day01/Constant.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day01/hello_word.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day01/hello_word.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day02/AscII.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day02/AscII.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day02/Extend_Knowledge.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day02/Extend_Knowledge.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day02/Method.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day02/Method.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day02/Operator.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day02/Operator.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day02/Type_Change.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day02/Type_Change.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day03/Do_while.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day03/Do_while.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day03/For_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day03/For_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day03/If_Else.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day03/If_Else.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day03/Switch_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day03/Switch_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day03/While_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day03/While_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day03/continue_break.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day03/continue_break.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day04/Method_reload.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day04/Method_reload.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day04/Methon_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day04/Methon_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day04/old_method.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day04/old_method.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day05/array_01.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day05/array_01.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day05/array_02.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day05/array_02.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day05/array_03_method.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day05/array_03_method.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day05/array_04.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day05/array_04.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Class_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Class_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Phone.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Phone.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Private_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Private_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Student.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Student.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Student_Bean.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Student_Bean.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Test_Phone.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Test_Phone.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day06/Variable_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day06/Variable_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day07/Array_list_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day07/Array_list_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day07/Array_list_practice.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day07/Array_list_practice.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day07/Random_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day07/Random_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day07/Scanner_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day07/Scanner_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day07/Student.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day07/Student.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day08/Arrays_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day08/Arrays_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day08/Math_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day08/Math_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day08/Static_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day08/Static_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day08/String_.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day08/String_.class" afterDir="false" />
+      <change beforePath="E:/learn_java/target/classes/Day08/Student.class" beforeDir="false" afterPath="E:/learn_java/target/classes/Day08/Student.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estimator_test/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-781">
+              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#91#175#0" />
+                <element signature="e#223#456#0" />
+                <element signature="e#505#1323#0" />
+                <element signature="e#3319#4131#0" />
+                <element signature="e#4195#5501#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/anacond/Lib/site-packages/tensorflow/core/example/feature_pb2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="389" column="32" selection-start-line="389" selection-start-column="32" selection-end-line="389" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/anacond/Lib/site-packages/tensorflow/python/training/optimizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="354" column="28" selection-start-line="354" selection-start-column="28" selection-end-line="354" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total_red</find>
+      <find>n</find>
+      <find>file_deal_times</find>
+      <find>trainning_input_file</find>
+      <find>-0.458085</find>
+      <find>test_input_file</find>
+      <find>text</find>
+      <find>EstimatorSpec</find>
+      <find>0.09836</find>
+      <find>labels</find>
+      <find>my_model</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/create_train_file.py" />
+        <option value="$PROJECT_DIR$/train.cfg" />
+        <option value="$PROJECT_DIR$/Incre_train.py" />
+        <option value="$PROJECT_DIR$/estimator_test/process.py" />
+        <option value="$PROJECT_DIR$/estimator_test/processor.py" />
+        <option value="$PROJECT_DIR$/estimator_test/train_input.txt" />
+        <option value="$PROJECT_DIR$/estimator_test/read_record.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/estimator_test/test_set.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/estimator_test/train.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Incremental_learn.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="244" />
+    <option name="y" value="44" />
+    <option name="width" value="1683" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Incremental_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Incremental_learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Incremental_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Incremental_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="estimator_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xuexi\Incremental_learn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xuexi\Incremental_learn\estimator_test" />
+      <recent name="E:\xuexi\Incremental_learn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train (1)">
+    <configuration name="Incre_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Incremental_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Incre_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_train_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Incremental_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\anacond\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_train_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_record" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Incremental_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estimator_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estimator_test/read_record.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Incremental_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estimator_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estimator_test/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Incremental_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.read_record" />
+        <item itemvalue="Python.create_train_file" />
+        <item itemvalue="Python.Incre_train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="521dc5cd-c2bf-4270-a381-68ee635d9bdd" name="Default Changelist" comment="" />
+      <created>1654651944978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654651944978</updated>
+      <workItem from="1654651946286" duration="54493000" />
+      <workItem from="1655084219878" duration="15918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70411000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36225596" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.28464818" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32963648" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/estimator_test/train.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/estimator_test/train.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Incremental_learn$Incre_train.coverage" NAME="Incre_train Coverage Results" MODIFIED="1654671575209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Incremental_learn$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1655113365812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estimator_test" />
+    <SUITE FILE_PATH="coverage/Incremental_learn$create_train_file.coverage" NAME="create_train_file Coverage Results" MODIFIED="1654762190961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Incremental_learn$read_record.coverage" NAME="read_record Coverage Results" MODIFIED="1654828083969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estimator_test" />
+    <SUITE FILE_PATH="coverage/Incremental_learn$train.coverage" NAME="train Coverage Results" MODIFIED="1654829393077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Incre_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3575">
+          <caret line="152" column="29" lean-forward="true" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/processor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_train_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/anacond/Lib/site-packages/tensorflow/python/ops/losses/losses_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="875" selection-start-line="875" selection-end-line="875" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/read_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="4" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/eval.tf_record">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/train.tf_record">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/test_set.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="999" column="27" selection-start-line="999" selection-start-column="27" selection-end-line="999" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/train_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="3921" column="27" selection-start-line="3921" selection-start-column="27" selection-end-line="3921" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_set.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="5" selection-end-line="999" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacond/Lib/site-packages/tensorflow/python/training/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="354" column="28" selection-start-line="354" selection-start-column="28" selection-end-line="354" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacond/Lib/site-packages/tensorflow/core/example/feature_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="389" column="32" selection-start-line="389" selection-start-column="32" selection-end-line="389" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimator_test/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#91#175#0" />
+            <element signature="e#223#456#0" />
+            <element signature="e#505#1323#0" />
+            <element signature="e#3319#4131#0" />
+            <element signature="e#4195#5501#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
