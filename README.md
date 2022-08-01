@@ -15,6 +15,30 @@ saver.save(sess, model_path + '/model.ckpt')
 ```
 
 - 恢复模型
+目前主要有两种恢复模型的方式
+ - 方式一
+ ```python
+ # 先构建网络结构
+build_model()
+# 初始化变量
+sess.run(tf.global_variables_initializer())
+# 最后从checkpoint中加载已训练好的参数
+saver = tf.train.Saver()
+saver.restore(self.sess, init_checkpoint)
+ ```
+ - 方式二
+ ```python
+ # 先构建网络结构
+build_model()
+# 调用init_from_checkpoint方法
+tvars = tf.trainable_variables()
+(assignment_map,
+ initialized_variable_names) = modeling.get_assignment_map_from_checkpoint(
+    tvars, init_checkpoint)
+tf.train.init_from_checkpoint(init_checkpoint, assignment_map)
+# 最后初始化变量
+sess.run(tf.global_variables_initializer())
+ ```
 
 ```python
 sess = tf.Session(graph=graph)
