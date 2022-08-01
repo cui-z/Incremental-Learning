@@ -7,14 +7,7 @@
 - 使用Incre_train来增量学习
 
 ## 核心代码
-
-- 保存模型
-
-```python
-saver.save(sess, model_path + '/model.ckpt')
-```
-
-- 恢复模型
+### 恢复模型
 目前主要有两种恢复模型的方式
  - 方式一
  ```python
@@ -39,7 +32,12 @@ tf.train.init_from_checkpoint(init_checkpoint, assignment_map)
 # 最后初始化变量
 sess.run(tf.global_variables_initializer())
  ```
+### 本文采用的 
+ - 保存模型
 
+```python
+saver.save(sess, model_path + '/model.ckpt')
+```
 ```python
 sess = tf.Session(graph=graph)
 check_point_path = 'saved_model/'  # 保存好模型的文件路径
